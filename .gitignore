@@ -1,0 +1,15 @@
+.vscode
+__pycache__
+include
+lib
+Lib
+pyvenv.cfg
+lib64
+bin
+Scripts
+setup.cfg
+examples
+dist
+*.egg-info
+pyproject.toml
+.pypirc
