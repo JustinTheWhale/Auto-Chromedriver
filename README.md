@@ -1,4 +1,4 @@
-# AutoChromedriver
+# AutoChromedriver2
 
 ## About
 
@@ -12,7 +12,7 @@
 
 ```python
 
-import AutoChromedriver.chromedriver_check as AC
+import AutoChromedriver2.chromedriver_check as AC
 
 AC.AutoChromedriver()
 ```
